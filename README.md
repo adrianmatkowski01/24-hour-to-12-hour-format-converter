@@ -1,2 +1,2 @@
 # About
-Code i wrote whilst sill learning
+Code i wrote whilst still learning
